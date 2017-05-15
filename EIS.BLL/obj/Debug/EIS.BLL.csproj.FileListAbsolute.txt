@@ -1,0 +1,22 @@
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EIS.BLL.dll
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EIS.BLL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EIS.BOL.dll
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EIS.DAL.dll
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EntityFramework.dll
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EIS.BOL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EIS.DAL.pdb
+F:\Practice\AngularJS Project\EIS\EIS.BLL\bin\Debug\EntityFramework.xml
+F:\Practice\AngularJS Project\EIS\EIS.BLL\obj\Debug\EIS.BLL.csprojResolveAssemblyReference.cache
+F:\Practice\AngularJS Project\EIS\EIS.BLL\obj\Debug\EIS.BLL.dll
+F:\Practice\AngularJS Project\EIS\EIS.BLL\obj\Debug\EIS.BLL.pdb
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EIS.BLL.dll
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EIS.BLL.pdb
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EIS.BOL.dll
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EIS.DAL.dll
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EntityFramework.dll
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EIS.BOL.pdb
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EIS.DAL.pdb
+C:\Users\mdman\Downloads\EIS\EIS.BLL\bin\Debug\EntityFramework.xml
+C:\Users\mdman\Downloads\EIS\EIS.BLL\obj\Debug\EIS.BLL.csprojResolveAssemblyReference.cache
+C:\Users\mdman\Downloads\EIS\EIS.BLL\obj\Debug\EIS.BLL.dll
+C:\Users\mdman\Downloads\EIS\EIS.BLL\obj\Debug\EIS.BLL.pdb
